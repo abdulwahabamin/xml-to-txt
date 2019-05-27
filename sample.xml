@@ -1,7 +1,7 @@
 <annotation>
-	<folder>garb_xml</folder>
-	<filename>im926.jpg</filename>
-	<path>H:\LUMS\datasets\comsats\garb_xml\im926.jpg</path>
+	<folder>images</folder>
+	<filename>sample.jpg</filename>
+	<path>images\sample.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>garbage</name>
+		<name>class</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>garbage</name>
+		<name>class</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
